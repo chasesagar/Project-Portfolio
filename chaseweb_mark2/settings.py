@@ -78,12 +78,12 @@ WSGI_APPLICATION = 'chaseweb_mark2.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'portfolio',
-        'USER': 'sagarsaini',
-        'PASSWORD': 'portfolio',
-        'HOST': 'database-1.coqcjlyhxllu.ap-south-1.rds.amazonaws.com',
-        'PORT': '5432',
+        'ENGINE': '***********',
+        'NAME': '***********',
+        'USER': '***********',
+        'PASSWORD': '***********',
+        'HOST': '***********',
+        'PORT': '***********',
     }
 }
 
@@ -139,9 +139,9 @@ MEDIA_ROOT = os.path.join(BASE_DIR,'static/media')
 
 #S3 BUCKETS CONFIG
 
-#AWS_ACCESS_KEY_ID = 'AKIAQDXTTOULWWEG3XO5'
-#AWS_SECRET_ACCESS_KEY = '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'
-#AWS_STORAGE_BUCKET_NAME = 'chaseweb'
+#AWS_ACCESS_KEY_ID = '***********'
+#AWS_SECRET_ACCESS_KEY = '***********'
+#AWS_STORAGE_BUCKET_NAME = '***********'
 
 #AWS_S3_FILE_OVERWRITE = False
 #AWS_DEFAULT_ACL = None
