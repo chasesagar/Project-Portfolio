@@ -31,6 +31,9 @@ Django Python based project which uses many different tools like **Amazon web se
 <br />
 <br />
 
+## Demo
+
+![Product Gif](https://github.com/chasesagar/portfolio/blob/master/demo.gif)
 
 ## Prerequisite
 
@@ -69,10 +72,6 @@ python manage.py runserver
 
 * The server is now running at [localhost:8000](localhost:8000)
 
-
-## Demo
-
-![Product Image](https://github.com/chasesagar/portfolio/blob/master/demo-1.png)
 
 
 ## Quick Start
