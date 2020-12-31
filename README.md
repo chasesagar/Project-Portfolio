@@ -34,6 +34,9 @@ Django Python based project which uses many different tools like **Amazon web se
 ## Demo
 
 ![Product Gif](https://github.com/chasesagar/portfolio/blob/master/demo.gif)
+![Product Image](https://github.com/chasesagar/portfolio/blob/master/demo-1.png)
+![Product Image](https://github.com/chasesagar/portfolio/blob/master/demo-2.png)
+![Product Image](https://github.com/chasesagar/portfolio/blob/master/demo-3.png)
 
 ## Prerequisite
 
